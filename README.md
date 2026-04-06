@@ -1,14 +1,22 @@
 # awesome-reformed-theology
-An Awesome list of resources for Reformed Theology studies
+An Awesome list of resources for Reformed Theology studies. Some of these resources are my personal preference while others have been recommended to me.
 
 ## Contents
+- [awesome-reformed-theology](#awesome-reformed-theology)
+  - [Contents](#contents)
   - [Bibles](#bibles)
-  - [Blogs](#blogs)
   - [Creeds, Confessions, Catechisms](#creeds-confessions-catechisms)
+    - [Creeds](#creeds)
+    - [Confessions](#confessions)
+    - [Catechisms](#catechisms)
   - [Liturgy](#liturgy)
   - [Philology](#philology)
-  - [Sermons](#sermons)
+    - [Hebrew](#hebrew)
+    - [Greek](#greek)
+    - [Latin](#latin)
   - [Teachers](#teachers)
+    - [Currently Running the Race](#currently-running-the-race)
+    - [Finished Well](#finished-well)
   - [Misc](#misc)
   
 ## Bibles
@@ -17,13 +25,6 @@ An Awesome list of resources for Reformed Theology studies
   - [Bible Hub](https://biblehub.com/) - Online Bible that can display multiple translations in parallel, very helpful
   - [Bible Web App](https://biblewebapp.com/study) - Interlinear web-based Bible with several different English translations available
   - [Logos (web version)](https://app.logos.com/) - Logos Bible Study software in your browser
-
-## Blogs
-
-  - [Ligonier Ministries](https://learn.ligonier.org/articles) - R.C. Sproul's ministry, featuring various authors
-  - [Desiring God](https://www.desiringgod.org/) - Blog written by John Piper et al.
-  - [Challies](https://www.challies.com/) - Blog written by Tim Challies
-  - [Truth for Life](https://blog.truthforlife.org/) - Alistair Begg's blog
 
 ## Creeds, Confessions, Catechisms
 
@@ -57,28 +58,38 @@ An Awesome list of resources for Reformed Theology studies
 
   ### Latin
 
-## Sermons
-
-  - [Grace to You](https://www.gty.org/) - John MacArthur's ministry
-  - [Ligonier](https://learn.ligonier.org/) - R.C. Sproul's ministry
-  - [Truth for Life](https://www.truthforlife.org/resources/most-recent-sermons/) - Alistair Begg's ministry
-
 ## Teachers
 
-  ## Currently Running the Race
-    - Alistair Begg
-    - John Piper
-    - Sinclair Ferguson
-    - W. Robert Godfrey
-    - Stephen Nichols
-    - Carl Trueman
+  ### Currently Running the Race
 
-  ## Finished Well
-    - R.C. Sproul
-    - John MacArthur
-    - Jonathan Edwards
-    - John Owens
-    - Thomas Boston
+  | Person | Best Known For |
+  | --- | --- |
+  | Alistair Begg | [Truth for Life Ministry](https://www.truthforlife.org) |
+  | Sinclair Ferguson | Teaching Fellow at [Ligonier Ministries](https://www.ligonier.org) |
+  | W. Robert Godfrey | Chairman of [Ligonier Ministries](https://www.ligonier.org) |
+  | Dr. Stephen Nichols | [Five Minutes in Church History podcast](https://learn.ligonier.org/podcasts/5-minutes-in-church-history-with-stephen-nichols) |
+  | John Piper | [Desiring God](https://www.desiringgod.org) book and blog |
+  | Carl Trueman | author of _The Creedal Imperative_ et al. |
+
+  ### Finished Well
+
+  The links provided here are to each person's writings found on [Monergism](https://www.monergism.com). That site and its contributors have done an excellent job of collecting writings widely available for all of these teachers/authors and then some. I would strongly recommend perusing that site.
+
+  | Person | Where in History is He From? | What is He Best Known For? |
+  | --- | --- | --- |
+  | [Herman Bavinck](https://www.monergism.com/search?f[0]=author:34810) | 1854-1921 | Dutch Reformed theologian and author of _Reformed Dogmatics_ |
+  | [James Montgomery Boice](https://www.monergism.com/search?f[0]=author:34631) | 1938-2000 | Reformed theologian. Wrote extensively on authority of Scripture and defence of Biblical inerrancy |
+  | [Thomas Boston](https://www.monergism.com/search?f[0]=author:36052) | 1676-1732 | _Human Nature in its Fourfold State_ |
+  | [Jeremiah Burroughs](https://www.monergism.com/search?f[0]=author:34398) | English Puritan (1599-1646) | Moderate at Westminister Assembly. Quote attributed to him - _"Difference of belief and unity of believers are not inconsistent."_ |
+  | [John Calvin](https://www.monergism.com/search?f[0]=author:34198) | French Reformed theologian (1509-1564) | _Institutes of the Christian Religion_ |
+  | [Jonathan Edwards](https://www.monergism.com/search?f[0]=author:34270) |  | _The Necessity of Atonement_ |
+  | [Ezekiel Hopkins](https://www.monergism.com/search?f[0]=author:34397) |  | _Expositions of the Ten Commandments_ |
+  | [Abraham Kuyper](https://www.monergism.com/search?f[0]=author:35890) | Dutch Prime Minister and theologian (1837-1920) | Doctrine of common grace |
+  | [Martin Lloyd-Jones](https://www.monergism.com/search?f[0]=author:34450) | Welsh Protestant minister (1899-1981) | _Spiritual Depression_ |
+  | [John Owen](https://www.monergism.com/search?f[0]=author:34180) |  | _The Mortification of Sin_ and _On the Holy Spirit (Pneumatologia)_ |
+  | [R.C. Sproul](https://www.monergism.com/search?f[0]=author:34558) | Reformed theologian (1939-2017) | founder of [Ligonier Ministries](https://www.ligonier.org) |
+  | [Charles H. Spurgeon](https://www.monergism.com/search?f[0]=author:34468) | Particular Baptist preacher (1834-1892) | Known as "The Prince of Preachers" |
+  | [Thomas Watson](https://www.monergism.com/search?f[0]=author:34234) |  | _The Art of Divine Contentment_ |
 
 ## Misc
 
