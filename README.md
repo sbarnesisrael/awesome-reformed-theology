@@ -5,11 +5,21 @@ An Awesome list of resources for Reformed Theology studies. Some of these resour
 - [awesome-reformed-theology](#awesome-reformed-theology)
   - [Contents](#contents)
   - [Bibles](#bibles)
+  - [Books](#books)
+    - [Apologetics](#apologetics)
+    - [Books of the Bible](#books-of-the-bible)
+    - [Christian Fiction](#christian-fiction)
+    - [Covenant Theology](#covenant-theology)
+    - [Leadership](#leadership)
+    - [Marriage](#marriage)
+    - [Modern Topics / Current Events](#modern-topics--current-events)
+    - [Patristic Writings](#patristic-writings)
+    - [Reformed Theology](#reformed-theology)
+    - [Systematic Theology](#systematic-theology)
   - [Creeds, Confessions, Catechisms](#creeds-confessions-catechisms)
     - [Creeds](#creeds)
     - [Confessions](#confessions)
     - [Catechisms](#catechisms)
-  - [Liturgy](#liturgy)
   - [Philology](#philology)
     - [Hebrew](#hebrew)
     - [Greek](#greek)
@@ -25,6 +35,76 @@ An Awesome list of resources for Reformed Theology studies. Some of these resour
   - [Bible Hub](https://biblehub.com/) - Online Bible that can display multiple translations in parallel, very helpful
   - [Bible Web App](https://biblewebapp.com/study) - Interlinear web-based Bible with several different English translations available
   - [Logos (web version)](https://app.logos.com/) - Logos Bible Study software in your browser
+
+## Books
+
+  The books listed here are books that I've either personally read or have been recommended to me. I list them here for your edification.
+
+  ### Apologetics
+
+  - Roman Catholicism: Evangelical Protestants Analyze What Divides and Unites Us
+  - Tactics: A Game Plan for Discussing Your Christian Convictions by Greg Koukl
+
+  ### Books of the Bible
+
+  These are books teaching on a specific book of the Bible.
+
+  - Exodus Old and New by L. Michael Morales
+  - The Flow of the Psalms by O. Palmer Robertson
+  - Unceasing Kindness: A Biblical Theology of Ruth by Peter H.W. Lau
+
+  ### Christian Fiction
+
+  - The Chronicles of Narina by C.S. Lewis
+  - The Hobbit by J.R.R. Tolkien
+  - The Lord of the Rings by J.R.R. Tolkien
+  - Pilgrim's Progress by John Bunyan
+  - The Screwtape Letters by C.S. Lewis
+
+  ### Covenant Theology
+
+  - Christ of the Consummation by O. Palmer Robertson
+  - Covenant Theology by Patrick Abendroth
+  - Covenant Theology: Biblical, Theological, and Historical Perspectives by Guy Prentiss Waters et al.
+  - God to Us by Stephen Myers
+
+  ### Leadership
+
+  - Called to Lead by John MacArthur
+  - The New Testament Deacon: The Church's Minister of Mercy by Alexander Strauch
+
+  ### Marriage
+
+  - The Excellent Wife by Martha Peace
+  - The Exemplary Husband by Stuart Scott
+
+  ### Modern Topics / Current Events
+
+  These are books addressing a particular topic of more modern concern or a specific current event.
+
+  - Christianity and Liberalism by J. Gresham Machen
+  - Fault Lines: The Social Justice Movement and Evangelicalism's Looming Catastrophe by Voddie T. Baucham, Jr.
+
+  ### Patristic Writings
+
+  - Against Heresies by Irenaeus of Lyons
+  - The Didache
+  - Confessions by Augustine of Hippo
+  - Institutes of the Christian Religion by John Calvin
+
+  ### Reformed Theology
+
+  - The Creedal Imperative by Carl Trueman
+  - Grace Alone - Salvation as a Gift of God: What the Reformers Taught and Why It Still Matters by Carl Trueman
+  - The Reformed Pastor by Richard Baxter
+  - Reformed Dogmatics by Herman Bavinck
+  - Sola Scriptura: The Protestant Position on the Bible by Don Kistler
+
+  ### Systematic Theology
+
+  - Everyone's a Theologian: An Introduction to Systematic Theology by R.C. Sproul
+  - Foundations of the Christian Faith by James Montgomery Boice
+  
 
 ## Creeds, Confessions, Catechisms
 
@@ -48,8 +128,6 @@ An Awesome list of resources for Reformed Theology studies. Some of these resour
   - [Westminster Larger Catechism](https://thewestminsterstandard.org/westminster-larger-catechism/)
   - [Westminster Shorter Catechism](https://thewestminsterstandard.org/westminster-shorter-catechism/)
 
-## Liturgy
-
 ## Philology
 
   ### Hebrew
@@ -67,7 +145,7 @@ An Awesome list of resources for Reformed Theology studies. Some of these resour
   | Alistair Begg | [Truth for Life Ministry](https://www.truthforlife.org) |
   | Sinclair Ferguson | Teaching Fellow at [Ligonier Ministries](https://www.ligonier.org) |
   | W. Robert Godfrey | Chairman of [Ligonier Ministries](https://www.ligonier.org) |
-  | Dr. Stephen Nichols | [Five Minutes in Church History podcast](https://learn.ligonier.org/podcasts/5-minutes-in-church-history-with-stephen-nichols) |
+  | Dr. Stephen Nichols | [Five Minutes in Church History podcast](https://learn.ligonier.org/podcasts/5-minutes-in-church-history-with-stephen-nichols) |  
   | John Piper | [Desiring God](https://www.desiringgod.org) book and blog |
   | Carl Trueman | author of _The Creedal Imperative_ et al. |
 
@@ -94,3 +172,4 @@ An Awesome list of resources for Reformed Theology studies. Some of these resour
 ## Misc
 
   - [Interesting Family Tree of Biblical Characters](https://kjvstudy.org/family-tree)
+  - [Monergism](https://www.monergism.com) - Excellent source of free eBooks on Reformed topics from a wide range of authors
